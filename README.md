@@ -13,12 +13,14 @@ Nmap, Wireshark
 Python (for scripting/automation)
 TryHackMe, Hack The Box, OWASP Top 10
 Basic Firewall & IDS setup
+
 📁 Portfolio Structure
 
 /Projects: Writeups, vulnerability assessments, setup guides
 /Scripts: Python tools and utilities I've built
 /Certifications: My certification progress and learning roadmap
 /Resume: PDF of my updated cybersecurity resume
+
 📬 Contact
 
 Email: Petfad68@gmail.com
